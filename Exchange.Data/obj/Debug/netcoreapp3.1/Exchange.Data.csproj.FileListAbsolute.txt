@@ -1,0 +1,24 @@
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csprojAssemblyReference.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.AssemblyInfoInputs.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.AssemblyInfo.cs
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.deps.json
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.CopyComplete
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.deps.json
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.pdb
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csprojAssemblyReference.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.AssemblyInfoInputs.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.AssemblyInfo.cs
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.CoreCompileInputs.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.CopyComplete
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.pdb

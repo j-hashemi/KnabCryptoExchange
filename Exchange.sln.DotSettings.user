@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=176795e6_002Dae4e_002D46d1_002Dab11_002D7a9e8bff02d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ForeignExchangeServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::AD30A5C2-E6BC-41E0-97FE-6A83B2F617CF::.NETCoreApp,Version=v3.1::Exchange.Test.UnitTests.ExternalServiceTests.CoinMarketCapServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::AD30A5C2-E6BC-41E0-97FE-6A83B2F617CF::.NETCoreApp,Version=v3.1::Exchange.Test.UnitTests.Domain.CurrencyTest.CryptoPerCurrencyRate_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::AD30A5C2-E6BC-41E0-97FE-6A83B2F617CF::.NETCoreApp,Version=v3.1::Exchange.Test.UnitTests.Domain.CurrencyTest.Currency_Ctr_Name_Is_Null_Fail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::AD30A5C2-E6BC-41E0-97FE-6A83B2F617CF::.NETCoreApp,Version=v3.1::Exchange.Test.UnitTests.Domain.CurrencyTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::AD30A5C2-E6BC-41E0-97FE-6A83B2F617CF::.NETCoreApp,Version=v3.1::Exchange.Test.UnitTests.Domain.CryptoCurrencyTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

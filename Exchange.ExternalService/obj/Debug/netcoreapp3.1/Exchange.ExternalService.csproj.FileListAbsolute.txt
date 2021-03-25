@@ -1,0 +1,28 @@
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.ExternalService.deps.json
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.ExternalService.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.ExternalService.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.csprojAssemblyReference.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.AssemblyInfoInputs.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.AssemblyInfo.cs
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.csproj.CoreCompileInputs.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Command.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Command.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.csproj.CopyComplete
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.ExternalService.deps.json
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.ExternalService.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.ExternalService.pdb
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Command.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Command.pdb
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.csprojAssemblyReference.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.AssemblyInfoInputs.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.AssemblyInfo.cs
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.csproj.CoreCompileInputs.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.csproj.CopyComplete
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\netcoreapp3.1\Exchange.ExternalService.pdb

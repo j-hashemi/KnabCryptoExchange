@@ -1,0 +1,18 @@
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.deps.json
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.csprojAssemblyReference.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.AssemblyInfoInputs.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.AssemblyInfo.cs
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal Hashemi\source\repos\SampleUserAuthentication\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.deps.json
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.csprojAssemblyReference.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.AssemblyInfoInputs.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.AssemblyInfo.cs
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.csproj.CoreCompileInputs.cache
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.pdb
