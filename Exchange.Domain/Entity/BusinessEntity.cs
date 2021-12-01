@@ -7,7 +7,7 @@ namespace Exchange.Domain.Entity
         [Key]
         public int Id { get; set; }
 
-        public override bool Equals(object? obj)
+        public override bool Equals(object obj)
         {
             return obj != null && Id.Equals(((BusinessEntity)obj).Id);
         }

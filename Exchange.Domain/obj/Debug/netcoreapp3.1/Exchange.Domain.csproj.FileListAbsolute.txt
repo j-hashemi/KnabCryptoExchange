@@ -16,3 +16,13 @@ C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreap
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.csproj.CoreCompileInputs.cache
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.dll
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.deps.json
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.AssemblyInfoInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.AssemblyInfo.cs
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Domain\obj\Debug\netcoreapp3.1\Exchange.Domain.pdb

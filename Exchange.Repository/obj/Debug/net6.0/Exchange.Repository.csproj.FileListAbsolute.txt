@@ -1,0 +1,17 @@
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.AssemblyInfoInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.AssemblyInfo.cs
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\Exchange.Repository.deps.json
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\Exchange.Repository.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\ref\Exchange.Repository.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\Exchange.Repository.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\Exchange.Data.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\Exchange.Domain.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\Exchange.Data.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\bin\Debug\net6.0\Exchange.Domain.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.csproj.CopyComplete
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\ref\Exchange.Repository.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Repository\obj\Debug\net6.0\Exchange.Repository.pdb

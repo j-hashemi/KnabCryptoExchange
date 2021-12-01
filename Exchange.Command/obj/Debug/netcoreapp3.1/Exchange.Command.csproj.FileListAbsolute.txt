@@ -22,3 +22,16 @@ C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Command\obj\Debug\netcorea
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.csproj.CopyComplete
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.dll
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\bin\Debug\netcoreapp3.1\Exchange.Command.deps.json
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\bin\Debug\netcoreapp3.1\Exchange.Command.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\bin\Debug\netcoreapp3.1\Exchange.Command.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.AssemblyInfoInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.AssemblyInfo.cs
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.csproj.CopyComplete
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Command\obj\Debug\netcoreapp3.1\Exchange.Command.pdb

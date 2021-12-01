@@ -1,0 +1,15 @@
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.AssemblyInfoInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.AssemblyInfo.cs
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\net6.0\Exchange.Data.deps.json
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\net6.0\Exchange.Data.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\net6.0\ref\Exchange.Data.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\net6.0\Exchange.Data.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\net6.0\Exchange.Domain.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\net6.0\Exchange.Domain.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.csproj.CopyComplete
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\ref\Exchange.Data.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\net6.0\Exchange.Data.pdb

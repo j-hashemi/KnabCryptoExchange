@@ -1,0 +1,17 @@
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\Exchange.ExternalService.deps.json
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\Exchange.ExternalService.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\ref\Exchange.ExternalService.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\Exchange.ExternalService.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\Exchange.Command.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\Exchange.Domain.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\Exchange.Command.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\bin\Debug\net6.0\Exchange.Domain.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.AssemblyInfoInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.AssemblyInfo.cs
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.csproj.CopyComplete
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\ref\Exchange.ExternalService.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.ExternalService\obj\Debug\net6.0\Exchange.ExternalService.pdb

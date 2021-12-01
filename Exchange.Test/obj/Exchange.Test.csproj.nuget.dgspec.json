@@ -1,38 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj": {}
+    "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj": {}
   },
   "projects": {
-    "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj": {
+    "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj",
+        "projectUniqueName": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj",
         "projectName": "Exchange.Command",
-        "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj",
-        "packagesPath": "C:\\Users\\Jamal Hashemi\\.nuget\\packages\\",
-        "outputPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Command\\obj\\",
+        "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj",
+        "packagesPath": "C:\\Users\\Jamal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Command\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jamal Hashemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj": {
-                "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj"
+              "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj"
               }
             }
           }
@@ -44,8 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -67,36 +64,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj": {
+    "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj",
         "projectName": "Exchange.Domain",
-        "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj",
-        "packagesPath": "C:\\Users\\Jamal Hashemi\\.nuget\\packages\\",
-        "outputPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jamal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jamal Hashemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -107,16 +101,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.13, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
-              "version": "[3.1.13, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -134,39 +128,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj": {
+    "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj",
+        "projectUniqueName": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj",
         "projectName": "Exchange.ExternalService",
-        "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj",
-        "packagesPath": "C:\\Users\\Jamal Hashemi\\.nuget\\packages\\",
-        "outputPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.ExternalService\\obj\\",
+        "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj",
+        "packagesPath": "C:\\Users\\Jamal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.ExternalService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jamal Hashemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj": {
-                "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj"
+              "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj": {
+                "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Command\\Exchange.Command.csproj"
               }
             }
           }
@@ -178,12 +169,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -201,42 +192,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj": {
+    "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj",
         "projectName": "Exchange.Test",
-        "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj",
-        "packagesPath": "C:\\Users\\Jamal Hashemi\\.nuget\\packages\\",
-        "outputPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Test\\obj\\",
+        "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Test\\Exchange.Test.csproj",
+        "packagesPath": "C:\\Users\\Jamal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jamal Hashemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj": {
-                "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj"
+              "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.Domain\\Exchange.Domain.csproj"
               },
-              "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj": {
-                "projectPath": "C:\\PersonalWorkSpace\\Knab\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj"
+              "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj": {
+                "projectPath": "C:\\Users\\Jamal\\source\\repos\\MyProfile\\KnabCryptoExchange\\Exchange.ExternalService\\Exchange.ExternalService.csproj"
               }
             }
           }
@@ -248,32 +236,34 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[2.2.8, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[2.2.8, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[3.1.13, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
-              "version": "[3.1.13, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[17.0.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -291,7 +281,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

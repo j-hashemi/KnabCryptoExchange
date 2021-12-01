@@ -6,7 +6,7 @@ export class Home extends Component {
   render () {
     return (
       <div>
-        <h1>Hello,Knab Guys</h1>
+        <h1>Hello, Guys</h1>
         <p>My Name Is Jamal Hashemi and this is the result of my assessment challenge</p>
         <p>Welcome to Exchange application, built with:</p>
         <ul>
@@ -16,7 +16,7 @@ export class Home extends Component {
           <li>Bootstrap for layout and styling</li>
         </ul>        
 
-        <p>In this application,I try to use OOP and Clean-Code principles.</p>        
+        <p>In this application,I have tried to use OOP and Clean-Code principles.</p>        
       </div>
     );
   }

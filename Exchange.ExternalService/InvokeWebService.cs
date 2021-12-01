@@ -31,9 +31,11 @@ namespace Exchange.ExternalService
         public async Task<JToken> Invoke()
         {
             Url.Query = QueryStringCollection.ToString() ?? "";
-            
-            var client = new WebClient();
-            client.Headers = Headers;
+
+            var client = new WebClient
+            {
+                Headers = Headers
+            };
 
             try
             {

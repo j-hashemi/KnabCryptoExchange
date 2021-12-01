@@ -22,3 +22,16 @@ C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.CopyComplete
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.dll
 C:\PersonalWorkSpace\Knab\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.deps.json
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Data.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Domain.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\bin\Debug\netcoreapp3.1\Exchange.Domain.pdb
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.AssemblyInfoInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.AssemblyInfo.cs
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.csproj.CopyComplete
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.dll
+C:\Users\Jamal\source\repos\MyProfile\KnabCryptoExchange\Exchange.Data\obj\Debug\netcoreapp3.1\Exchange.Data.pdb
